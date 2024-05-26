@@ -10,11 +10,11 @@
     "pyrogram"
   ],
   "env": {
-    "API_ID": {
+    "API_ID": {29225726
       "description": "Get it from my.telegram.org",
       "required": true
     },
-    "API_HASH": {
+    "API_HASH": {b2ae5726edb8ad504d1c4392aba25210
       "description": "Get it from my.telegram.org",
       "required": true
     },
